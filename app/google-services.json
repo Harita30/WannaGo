@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "399377157618",
+    "project_id": "android-final-project-421901",
+    "storage_bucket": "android-final-project-421901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399377157618:android:74b068ab06db61fc42ef6b",
+        "android_client_info": {
+          "package_name": "com.bignerdranch.android.WannaGo2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-UbeHzzNHhWHD6BhKVEJvITUSFoAqarA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399377157618:android:b30640f3a5012d3142ef6b",
+        "android_client_info": {
+          "package_name": "com.bignerdranch.android.wannago"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-UbeHzzNHhWHD6BhKVEJvITUSFoAqarA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

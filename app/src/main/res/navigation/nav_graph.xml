@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.bignerdranch.android.wannago.home.HomeFragment"
+        android:label="HomeFragment" />
+    <fragment
+        android:id="@+id/restaurantsFragment"
+        android:name="com.bignerdranch.android.wannago.restaurants.RestaurantsFragment"
+        android:label="RestaurantsFragment" />
+    <fragment
+        android:id="@+id/parksFragment"
+        android:name="com.bignerdranch.android.wannago.parks.ParksFragment"
+        android:label="ParksFragment" />
+</navigation>

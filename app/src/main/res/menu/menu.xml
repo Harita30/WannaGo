@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/homeFragment"
+        android:title="Home"
+        android:icon="@drawable/ic_home"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/restaurantsFragment"
+        android:title="Restaurants"
+        android:icon="@drawable/ic_restaurants"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/parksFragment"
+        android:title="Parks"
+        android:icon="@drawable/ic_parks"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        />
+</menu>
